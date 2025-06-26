@@ -362,7 +362,7 @@ body {
   
   @media (max-width: 480px) {
     .logo-container {
-      flex-direction: column;
+      /* flex-direction: column; */
       gap: 15px;
       padding: 20px 15px;
     }
